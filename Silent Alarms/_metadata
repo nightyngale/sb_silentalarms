@@ -1,0 +1,10 @@
+{
+  "author" : "nightyngale",
+  "description" : "This just turns off the alarm sound for the alarm object, because it was giving me a migraine. Alarms will still connect to wiring and turn on/off as normal, just with no sound.",
+  "friendlyName" : "Silent Alarms",
+  "link" : "steam://url/CommunityFilePage/2395751403",
+  "name" : "silentalarms",
+  "steamContentId" : "2395751403",
+  "tags" : "Miscellaneous|Furniture and Objects",
+  "version" : "1.0"
+}
